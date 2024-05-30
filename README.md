@@ -3,5 +3,5 @@
 
 ## The project was overlooked by Code First Girls Trainee instructors Kingsley Amoaning-Yankson and Josephine Obeng. The game code consists of html, css and javascript. Most recent changes to game code were   on the 30.05.2024.
 
-Photo shows First page of game, to play game click [here]()
+Photo shows First page of game, to play game click [here](https://maryivie.github.io/finalproject_findtrumpy/)
 ![Starter_game_page_screenshot](https://github.com/MaryIvie/finalproject_findtrumpy/assets/165317856/9c77ce2c-915e-483a-be34-9dad13658ef0)
